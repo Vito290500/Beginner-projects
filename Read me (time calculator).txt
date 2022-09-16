@@ -1,5 +1,0 @@
-This is the "time calculator" excercise by FreeCodeCamp site and "scientific computing with python" course. 
-Is a simple time calculator...Pay attention to put " " space between all the characters.
-Format accept in input:
-exemple.    ' 3 : 10 PM , 36 : 50 , Monday ' 
-and the days is a optional parameter.
